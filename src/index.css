@@ -11,3 +11,69 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* fondo */
+.fondo{
+  background-image: url(./img/fondo.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  overflow: hidden;
+  height: 100vh;
+}
+
+.titulo{
+  height: 100vh;
+}
+
+.titulo span{
+  padding: 10px 6px;
+  border-radius: 8px;
+  background-color: #88b901;
+  font-weight: 900;
+  color: #eeddb7;
+}
+
+.titulo i{
+  font-size: 3rem;
+}
+
+/* mensaje de error */
+.error{
+  background-color: rgba(252, 6, 6, 0.493);
+  width: 50%;
+  margin: 0 auto;
+  padding: 10px 0;
+  border-radius: 8px;
+  font-weight: 600;
+}
+
+/* lista de gastos */
+.gasto{
+  font-weight: 800;
+  padding: 6px 10px;
+  border-radius: 8px;
+  background-color: aqua;
+}
+
+.gastos p{
+  text-transform: uppercase;
+  height: auto;
+}
+
+/* presupuesto y restante */
+.presupuesto{
+  background-color: aqua;
+  padding: 12px 0;
+  border-radius: 8px;
+}
+
+.restante{
+  padding: 12px 0;
+  border-radius: 8px;
+}
+
+.panel{
+  height: auto;
+}

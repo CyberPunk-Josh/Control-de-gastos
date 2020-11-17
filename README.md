@@ -1,3 +1,6 @@
+## Acerca de este proyecto...
+Este pryecto fue hecho en React js para poder llevar un control de los gastos semanales, los gastos se contabilizan y se muestra el total de dinero gastado y una barra donde se muestra el porcentaje restante.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
